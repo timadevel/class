@@ -1,0 +1,212 @@
+<!DOCTYPE html  >
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ClassCamp</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./img/global-logo.png" >
+    <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
+    />
+</head>
+<body>
+
+<header id="header">
+    <div class="container">
+        <div class="header" data-aos="fade-down">
+            <div class="nav-bar">
+                <h1>ClassCamp</h1>
+                <a href="#">Pricing</a>
+                <a href="#">Find a course</a>
+                <a href="#">For Creators</a>
+            </div>
+
+            <div class="header-in">
+                <button>Sign In</button>
+                <button>Create a course</button>
+            </div>
+        </div>
+    </div>
+</header>
+<section id="hero">
+    <div class="container">
+        <div class="hero">
+            <div class="hero-title" data-aos=fade-up-right">
+            <h1>Take out your phone, and teach</h1>
+                <p>Classcamp is the easiest way to create an online course.</p>
+
+                <button>Create a course <ion-icon name="arrow-forward-outline"></ion-icon></button>
+                <span>If you're a student, continue here</span>
+
+            </div>
+            <div class="hero-img" data-aos="zoom-in-up">
+                <img src="./img/hero-img1.png" alt="img">
+                <div class="hero-tell">
+                    <img src="./img/tel.png" alt="img">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="shat">
+    <div class="container">
+        <div class="shat">
+            <div class="shat-yor" data-aos="fade-right"
+                 data-aos-offset="300"
+                 data-aos-easing="ease-in-sine">
+                <h1>Shoot lessons <br> with your phone</h1>
+                  <p>Pick a course template, and let the <br>app guide you through the shooting.
+                      <br> It's as easy as that.</p>
+            </div>
+              <div class="shat-img" data-aos="fade-left"
+                   data-aos-anchor="#example-anchor"
+                   data-aos-offset="500"
+                   data-aos-duration="500">
+                  <img src="./img/image%203.png" alt="">
+
+                  <div class="shat-tell">
+                      <img src="./img/image%202.png" alt="">
+                  </div>
+              </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="enrich">
+    <div class="container">
+        <div class="enrich">
+            <div class="enrich-text" data-aos="flip-left">
+                <img src="./img/images44.png" alt="">
+                <div class="enrich-img">
+                    <img src="./img/images55.png" alt="">
+                </div>
+            </div>
+            <div class="enrich-wed" data-aos="zoom-in-up">
+                <h1>Enrich them with <br>text and images</h1>
+                <p>Sometimes speaking to the camera isn’t <br>enough. So add text and graphics to get
+                    <br>your point across.
+                    <span>Like slides, but easy<br> peasy.</span> </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="element">
+    <div class="container">
+        <div class="element" >
+            <div class="element-jk"  data-aos="zoom-out-up">
+                <h1>Add interactive elements</h1>
+                <p>People learn best by doing. Include
+                    <br>hands-on assignments, quizzes and give <br> students feedback.  <span>Give extra value,
+                        <br> with little effort.</span> </p>
+
+            </div>
+
+            <div class="element-text"  data-aos="fade-down-left">  <img src="./img/img33.png" alt="">  </div>
+        </div>
+    </div>
+</section>
+
+<section id="linc">
+    <div class="container">
+        <div class="linc">
+            <div class="linc-img" data-aos="zoom-out-right">
+                <img src="./img/img66.png" alt="">
+                  <div class="linc-you">
+                      <img src="./img/img55.png" alt="">
+                  </div>
+            </div>
+             <div class="seling"  data-aos="fade-down"
+                  data-aos-easing="linear"
+                  data-aos-duration="1500">
+                 <h1>Share your link and start selling</h1>
+                 <p>Your course comes with a stunning <br>enrolment page. Up and running in minutes,
+                     <br>even before you shoot any content. <span>Start<br> selling now.</span> </p>
+             </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<!--<section id="best">-->
+<!--    <div class="container">-->
+<!--        <div class="best">-->
+<!--            <div class="best-by">-->
+<!--                <h1>Trusted by the <br>best at their craft</h1>-->
+<!--                <p>Coaches, creators and changemakers use <br>Classcamp to offer engaging learning experiences</p>-->
+
+<!--               <div class="swiper mySwiper">-->
+<!--                    <div class="swiper-wrapper">-->
+<!--                      <div class="swiper-slide">-->
+<!--                   <img src="./img/Rectanglewww.png" alt="img"/>-->
+<!--                          <div class="swiper-dis">-->
+<!--                              <h1>Videography</h1>  <h1>for movement</h1>-->
+<!--                              <p>Alessandro Sigismondi</p>   <p>Photographer</p>-->
+<!--                          </div>-->
+
+
+<!--                 </div>-->
+<!--                 <div class="swiper-slide">-->
+<!--                   <img src="./img/nglew.png" alt="img"/>-->
+<!--                     <div class="swiper-sid">-->
+<!--                         <h1>Create the life <br>and business you want</h1>-->
+<!--                         <p>Keltie Maguire</p>-->
+<!--                         <p>Business coach</p>-->
+<!--                     </div>-->
+
+<!--                 </div>-->
+<!--                      <div class="swiper-slide">-->
+<!--                   <img src="./img/Rectangle%20(14).png" alt="img"/>-->
+<!--                          <div class="swiper-eld">-->
+<!--                              <h1>Get started with Graffiti</h1>-->
+<!--                              <p>By SMOE NOVA</p>-->
+<!--                              <p>Youtuber</p>-->
+<!--                          </div>-->
+<!--                      </div>-->
+<!--                   <div class="swiper-slide">-->
+<!--                     <img src="./img/Rectangle%20(15).png" alt="img"/>-->
+<!--                   <div class="swiper-sis">-->
+<!--                       <h1>Yoga and <br>Mindfulness</h1>-->
+<!--                       <p>By Annika Isterling</p>-->
+<!--                       <p>Yoga teacher</p>-->
+<!--                   </div>-->
+<!--                    </div>-->
+<!--                   <div class="swiper-slide">-->
+<!--                      <img src="./img/Rectangle%20(16).png" alt="img"/>-->
+<!--                           <div class="swiper-dism">-->
+<!--                               <h1>Holistic business and wellbeing</h1>-->
+<!--                               <p>By Leo de Melo</p>-->
+<!--                               <p>Business coach</p>-->
+<!--                           </div>-->
+
+<!--                       </div>-->
+<!--                    </div>-->
+<!--               </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+<!--</section>-->
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<script src="script.js"></script>
+
+
+</body>
+</html>
